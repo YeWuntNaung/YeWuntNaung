@@ -1,8 +1,4 @@
-- 👋 Hi, I’m @YeWuntNaung
-- 👀 I’m interested in web development.
-- 🌱 I’m currently learning web development
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- ***
 
 <!---
 YeWuntNaung/YeWuntNaung is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
